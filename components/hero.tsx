@@ -35,7 +35,7 @@ export default function Hero() {
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
                 {/* <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Backed by YC</a> */}
-                <Image className="text-white 0 w-full sm:w-auto sm:ml-4" src={yclogo} alt="Hero image" />
+                {/* <Image className="text-white 0 w-full sm:w-auto sm:ml-4" src={yclogo} alt="Hero image" /> */}
               </div>
           
             </div>
